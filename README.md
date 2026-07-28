@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋 I'm Haitham Eltemamy
+   Haitham Eltemamy
 </h1>
 
 <h3 align="center">
@@ -44,6 +44,14 @@
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badge&logo=microsoftazure)
 ![dbt](https://img.shields.io/badge/dbt-Analytics-orange?style=for-the-badge)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-red?style=for-the-badge&logo=apacheairflow)
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+![PySpark](https://img.shields.io/badge/PySpark-orange?style=for-the-badge&logo=apachespark)
+
+![Databricks](https://img.shields.io/badge/Databricks-red?style=for-the-badge&logo=databricks)
+
+![Snowflake](https://img.shields.io/badge/Snowflake-blue?style=for-the-badge&logo=snowflake)
 
 
 ## 🚀 Featured Projects
