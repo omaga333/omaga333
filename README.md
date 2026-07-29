@@ -100,12 +100,7 @@
 
 
 
-إليك **الجزء الثاني** من البروفايل، وهو بيغطي الـ **Enterprise Data Architecture** (بتصميم Mermaid المحدث والاحترافي جداً للـ Dark Mode) بالإضافة لقسم **Featured Projects** اللي صيغناه بشكل قوي جداً عشان يبرز مهاراتك كـ Junior Data Engineer بيبني مشاريع شخصية وأكاديمية بمستوى الـ Enterprise.
 
-انسخ الكود ده وحطه تحت الجزء الأول مباشرة في ملف الـ `README.md`:
-
-```html
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
