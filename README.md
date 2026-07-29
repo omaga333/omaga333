@@ -98,8 +98,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ## 📐 Enterprise Data Architecture
 
 ```mermaid
@@ -157,8 +155,6 @@ flowchart TD
 
 ```
 
----
-
 ## 💻 Featured Data Engineering Projects
 
 I focus on building scalable end-to-end data pipelines and modern data lakehouses through comprehensive personal and academic projects.
@@ -188,10 +184,6 @@ I focus on building scalable end-to-end data pipelines and modern data lakehouse
 * **Tech Stack:** Azure Data Factory, ADLS Gen2, Spark-backed Mapping Data Flows, Azure Monitor, Logic Apps.
 * **Architecture:** Designed and implemented a dynamic, parameterized ETL pipeline automating multi-source file ingestion from SFTP and on-premises environments directly into Azure Data Lake Storage Gen2, integrated with automated incident alerting.
 
-```
-
-```
-```
 
 ## 📊 GitHub Analytics
 
