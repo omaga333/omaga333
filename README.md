@@ -96,6 +96,10 @@
   </table>
 </div>      
 
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ## 📐 Enterprise Data Architecture
 
 ```mermaid
@@ -151,6 +155,42 @@ flowchart TD
     C3 --> E1
     C3 --> E2
 
+```
+
+---
+
+## 💻 Featured Data Engineering Projects
+
+I focus on building scalable end-to-end data pipelines and modern data lakehouses through comprehensive personal and academic projects.
+
+### 🛍️ Enterprise Retail Data Platform (Walmart) [](https://github.com/omaga333/Walmart_Airflow_DBT_Databricks)
+
+* **Tech Stack:** Databricks, dbt Core, Apache Airflow, AWS S3, Delta Lake, Docker, SQL Server.
+* **Systems Architecture & Highlights:**
+* **Secure & Decoupled Ingestion:** Engineered a dual-ingestion architecture utilizing CDC for OLTP databases and Databricks Auto Loader (Streaming Tables) for AWS S3. Established zero-hardcoded credential security via AWS CloudFormation and IAM role trust relationships.
+* **Cost-Optimized Transformations (dbt):** Developed a robust Medallion pipeline featuring incremental models for compute efficiency, SCD Type 2 snapshots for historical data preservation, and ephemeral models to minimize storage overhead.
+* **Containerized Orchestration:** Deployed Apache Airflow via custom Docker images, enforcing strict DAG task lineage, secure credential bind-mounting for `profiles.yml`, and precision scheduling (Catchup=False) to prevent Databricks cluster throttling.
+
+
+
+### 🛒 End-to-End AI-Driven Retail Data Platform [](https://github.com/omaga333/retail-data-platform-databricks)
+
+* **Tech Stack:** Databricks LakeFlow Connect, PySpark, Delta Live Tables (DLT), YAML Semantic Layer.
+* **Architecture:** Automated data ingestion from Salesforce CRM and PostgreSQL. Architected a multi-layered Medallion structure utilizing PySpark DLT, and deployed a robust YAML-based semantic layer engineered to power AI/BI dashboard integrations.
+
+### 🎵 Spotify Azure Databricks Platform [](https://github.com/omaga333/Spotify-Azure-Databricks-Project)
+
+* **Tech Stack:** Azure Databricks, Azure Data Factory (ADF), Delta Lake, Auto Loader, Databricks Asset Bundles (DABs), Jinja2.
+* **Architecture:** Implemented an end-to-end Medallion Architecture leveraging Structured Streaming. Managed data ingestion via Auto Loader, enforced strict data quality constraints through robust Star Schema models, and streamlined code versioning with Databricks Asset Bundles.
+
+### ☁️ Enterprise Cloud Data Migration [](https://github.com/omaga333/DataMigrationToAzure-ADF)
+
+* **Tech Stack:** Azure Data Factory, ADLS Gen2, Spark-backed Mapping Data Flows, Azure Monitor, Logic Apps.
+* **Architecture:** Designed and implemented a dynamic, parameterized ETL pipeline automating multi-source file ingestion from SFTP and on-premises environments directly into Azure Data Lake Storage Gen2, integrated with automated incident alerting.
+
+```
+
+```
 ```
 
 ## 📊 GitHub Analytics
