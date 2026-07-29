@@ -106,15 +106,6 @@
 
 ## 📐 Enterprise Data Architecture
 
-ولا يهمك خالص، معاك حق. ساعات التصميم الأول بيكون أوضح، عملي أكتر، ومريح للعين من غير تعقيد.
-
-رجعتلك كود الـ **Architecture** للنسخة الأصلية اللي انت كتبتها واللي شكلها فعلاً أنسب وأشيك، ودمجتها مع قسم المشاريع.
-
-انسخ الكود ده وبدله بالجزء التاني:
-
-```html
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📐 Enterprise Data Architecture
