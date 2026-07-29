@@ -1,42 +1,77 @@
 <div align="center">
 
-
-
   <!-- HERO BANNER -->
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0078d4&height=220&section=header&text=Haitham%20Eltemamy&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Data%20Engineer%20%7C%20Data%20Platforms%20%7C&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
 
+
   <!-- TYPING SVG -->
+
   <a href="https://git.io/typing-svg">
+
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Building+Scalable+Data+Lakehouses;Mastering+Databricks+%2B+Delta+Lake+%2B+dbt;Automating+Orchestration+with+Apache+Airflow;Transforming+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+
   </a>
+
+
 
   <br/><br/>
 
+
+
   <!-- QUICK BADGES -->
-  <div align="center">
-    <p align="center">
-      <a href="https://linkedin.com/in/haitham-eltemamy-191053317" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="https://github.com/omaga333" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <a href="mailto:haitham.eltemamy.dev@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-      <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-0078D4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Cairo, Egypt" />
-    </p>
-  </div>
+
+ <div align="center">
+
+<p align="center">
+
+  <a href="https://linkedin.com/in/haitham-eltemamy-191053317" target="_blank">
+
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+  </a>
+
+  <a href="https://github.com/omaga333" target="_blank">
+
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  </a>
+
+  <a href="mailto:haitham.eltemamy.dev@gmail.com" target="_blank">
+
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+  </a>
+
+</p>
+
+
+
+</div>
+
+
 
   <p align="center">
+
     <b>About Me</b> •
+
     <b>Tech Stack</b> •
+
     <b>Architecture</b> •
+
+    <b>What I Do</b> •
+
     <b>Projects</b> •
-    <b>Community</b> •
-    <b>Stats & Certifications</b>
+
+    <b>Stats</b> •
+
+    <b>Certifications</b> •
+
+    <b>Connect</b>
+
   </p>
+
+
 
 </div>
 
