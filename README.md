@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0078d4&height=220&section=header&text=Haitham%20Eltemamy&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Data%20Engineer%20%7C%20Data%20Platforms%20%7C%20Cloud%20Architectures&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0078d4&height=220&section=header&text=Haitham%20Eltemamy&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Data%20Engineer%20%7C%20Data%20Platforms%20%7C&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
