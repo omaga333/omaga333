@@ -106,68 +106,71 @@
 
 ## 📐 Enterprise Data Architecture
 
+ولا يهمك خالص، معاك حق. ساعات التصميم الأول بيكون أوضح، عملي أكتر، ومريح للعين من غير تعقيد.
+
+رجعتلك كود الـ **Architecture** للنسخة الأصلية اللي انت كتبتها واللي شكلها فعلاً أنسب وأشيك، ودمجتها مع قسم المشاريع.
+
+انسخ الكود ده وبدله بالجزء التاني:
+
+```html
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 📐 Enterprise Data Architecture
+
 ```mermaid
 flowchart TD
-    %% Styling Definitions for Premium Dark Theme
-    classDef source fill:#1f2937,stroke:#3b82f6,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef ingest fill:#0d1117,stroke:#0078D4,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef storage fill:#0d1117,stroke:#00589C,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef bronze fill:#2e1f18,stroke:#cd7f32,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef silver fill:#1f2329,stroke:#c0c0c0,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef gold fill:#2e2a18,stroke:#ffd700,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef orchestrator fill:#161b22,stroke:#017CEE,stroke-width:2px,color:#fff,stroke-dasharray: 5 5;
-    classDef catalog fill:#161b22,stroke:#FF3621,stroke-width:2px,color:#fff,stroke-dasharray: 5 5;
-    classDef serving fill:#0d1117,stroke:#0078D4,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef bi fill:#161b22,stroke:#F2C811,stroke-width:2px,color:#fff,rx:8,ry:8;
+    classDef source fill:#1f2937,stroke:#3b82f6,stroke-width:2px,color:#fff;
+    classDef process fill:#111827,stroke:#ff3621,stroke-width:2px,color:#fff;
+    classDef medallion fill:#0f172a,stroke:#0078d4,stroke-width:2px,color:#fff;
+    classDef consume fill:#18181b,stroke:#f2c811,stroke-width:2px,color:#fff;
+    classDef orchestrate fill:#030712,stroke:#017cee,stroke-width:2px,color:#fff;
 
-    %% Orchestration and Governance Layer
-    subgraph Management ["⚙️ Orchestration & Governance"]
-        direction LR
-        Airflow["Apache Airflow\n(Pipeline Orchestration)"]:::orchestrator
-        UC["Unity Catalog\n(Data Governance)"]:::catalog
+    subgraph Data Sources
+        A1[("PostgreSQL DB")]:::source
+        A2[("REST APIs")]:::source
+        A3[("CSV Files")]:::source
+        A4[("JSON Logs")]:::source
     end
 
-    %% Data Sources
-    subgraph Sources ["📥 Data Sources"]
-        direction LR
-        DB[("PostgreSQL / CRM")]:::source
-        API[("REST APIs")]:::source
-        FILES[("SFTP / S3 / CSV")]:::source
+    subgraph Ingestion & Orchestration
+        B1["Apache Airflow DAGs"]:::orchestrate
+        B2["Databricks Auto Loader / LakeFlow"]:::process
     end
 
-    %% Ingestion and Storage Layer
-    subgraph Ingestion ["🚀 Ingestion & Datalake"]
-        ADF["Azure Data Factory / LakeFlow\n(Data Movement)"]:::ingest
-        ADLS[("ADLS Gen2 / AWS S3\n(Cloud Storage)")]:::storage
+    subgraph Medallion Data Lakehouse
+        C1[("Bronze Layer\n(Raw Parquet / Delta)")]:::medallion
+        C2[("Silver Layer\n(Cleansed & Conformed Delta)")]:::medallion
+        C3[("Gold Layer\n(Star Schema Data Marts)")]:::medallion
     end
 
-    %% Processing Layer (Medallion Architecture)
-    subgraph Medallion ["🏗️ Azure Databricks (Delta Lake Architecture)"]
-        direction TB
-        Bronze[("🤎 Bronze Layer\n(Raw Data Landing)")]:::bronze
-        Silver[("🥈 Silver Layer\n(dbt Core / PySpark)")]:::silver
-        Gold[("🥇 Gold Layer\n(Star Schema Models)")]:::gold
+    subgraph Transformation Engine
+        D1["PySpark Streaming & Batch"]:::process
+        D2["dbt Transformations & Tests"]:::process
     end
 
-    %% Analytics and Visualization Layer
-    subgraph Analytics ["📊 Analytics & Consumption"]
-        Fabric["Microsoft Fabric\n(Unified Analytics)"]:::serving
-        PBI["Power BI Dashboards\n(Data Visualization)"]:::bi
+    subgraph Analytics & Consumption
+        E1["Power BI Dashboards"]:::consume
+        E2["Executive Reporting"]:::consume
     end
 
-    %% Pipeline Flow Connections
-    DB & API & FILES -->|Extract| ADF
-    ADF -->|Load| ADLS
-    ADLS -->|Auto Loader| Bronze
-    Bronze -->|Clean & Deduplicate| Silver
-    Silver -->|dbt Models / SQL| Gold
-    Gold -->|Direct Lake / Import| Fabric
-    Fabric -->|Semantic Models| PBI
+    A1 --> B2
+    A2 --> B2
+    A3 --> B2
+    A4 --> B2
 
-    %% Management Links
-    Airflow -.->|Schedules| Ingestion
-    Airflow -.->|Triggers Pipelines| Medallion
-    UC -.->|Secures & Governs| Medallion
+    B1 -.-|Orchestrates| B2
+    B1 -.-|Triggers| D2
+
+    B2 --> C1
+    C1 --> D1
+    D1 --> C2
+    C2 --> D1
+    D1 --> D2
+    D2 --> C3
+    C3 --> E1
+    C3 --> E2
 
 ```
 
@@ -197,9 +200,6 @@ I focus on building scalable end-to-end data pipelines and modern data lakehouse
 * **Tech Stack:** dbt Core, Databricks Adapter, SQL.
 * **Architecture:** Developed a powerful data transformation platform using dbt to execute incremental data loading and unique key upsert strategies, configuring distinct technical and business modeling layers within the Silver zone.
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🏆 GitHub Trophies
 <div align="center">
