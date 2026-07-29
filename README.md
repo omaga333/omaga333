@@ -63,7 +63,7 @@
         <sub><b>Big Data</b></sub>
       </td>
       <td align="center" width="14%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="40" height="40" alt="Lakehouse" /><br/>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="40" height="40" alt="Lakehouse" /><br/>
         <sub><b>Lakehouse</b></sub>
       </td>
       <td align="center" width="14%">
@@ -75,8 +75,8 @@
         <sub><b>Distributed Systems</b></sub>
       </td>
       <td align="center" width="14%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Data Warehousing" /><br/>
-        <sub><b>Data Warehousing</b></sub>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Databases" /><br/>
+        <sub><b>Databases</b></sub>
       </td>
       <td align="center" width="14%">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" width="40" height="40" alt="Analytics Engineering" /><br/>
