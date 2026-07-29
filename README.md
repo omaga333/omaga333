@@ -146,3 +146,26 @@ flowchart TD
     D2 --> C3
     C3 --> E1
     C3 --> E2
+ ```
+<div align="center">
+
+## 🔥 Contribution Streak
+
+<a href="https://github.com/omaga333">
+  <img src="https://streak-stats.demolab.com/?user=omaga333&theme=tokyonight&hide_border=true&border_radius=8" alt="Haitham's GitHub Streak" />
+</a>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
