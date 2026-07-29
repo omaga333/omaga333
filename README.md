@@ -54,33 +54,41 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="14%">
+      <td align="center" width="12%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="Data Engineering" /><br/>
         <sub><b>Data Engineering</b></sub>
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="12%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Big Data" /><br/>
         <sub><b>Big Data</b></sub>
       </td>
-      <td align="center" width="14%">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg" width="40" height="40" alt="Lakehouse" /><br/>
+      <td align="center" width="12%">
+        <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" height="40" alt="Lakehouse" /><br/>
         <sub><b>Lakehouse</b></sub>
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="12%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Cloud Architecture" /><br/>
         <sub><b>Cloud Architecture</b></sub>
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="12%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Distributed Systems" /><br/>
         <sub><b>Distributed Systems</b></sub>
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="12%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Databases" /><br/>
         <sub><b>Databases</b></sub>
       </td>
-      <td align="center" width="14%">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" width="40" height="40" alt="Analytics Engineering" /><br/>
-        <sub><b>Analytics Engineering</b></sub>
+      <td align="center" width="12%">
+        <img src="https://cdn.simpleicons.org/dbt/FF694B" width="40" height="40" alt="Transformation" /><br/>
+        <sub><b>Transformation</b></sub>
+      </td>
+      <td align="center" width="12%">
+        <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" height="40" alt="Visualization" /><br/>
+        <sub><b>Visualization</b></sub>
+      </td>
+      <td align="center" width="12%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" width="40" height="40" alt="Platform" /><br/>
+        <sub><b>Platform</b></sub>
       </td>
     </tr>
   </table>
