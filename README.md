@@ -162,11 +162,11 @@ I focus on building scalable end-to-end data pipelines and modern data lakehouse
 
 ### 🛍️ Enterprise Retail Data Platform (Walmart) [Link](https://github.com/omaga333/Walmart_Airflow_DBT_Databricks)
 
-* **Tech Stack:** Databricks, dbt Core, Apache Airflow, AWS S3, Delta Lake, Docker, SQL Server.
+* **Tech Stack:** Databricks, dbt Core, Apache Airflow, AWS S3, Delta Lake, Docker, Postgres.
 * **Systems Architecture & Highlights:**
 * **Secure & Decoupled Ingestion:** Engineered a dual-ingestion architecture utilizing CDC for OLTP databases and Databricks Auto Loader (Streaming Tables) for AWS S3. Established zero-hardcoded credential security via AWS CloudFormation and IAM role trust relationships.
 * **Cost-Optimized Transformations (dbt):** Developed a robust Medallion pipeline featuring incremental models for compute efficiency, SCD Type 2 snapshots for historical data preservation, and ephemeral models to minimize storage overhead.
-* **Containerized Orchestration:** Deployed Apache Airflow via custom Docker images, enforcing strict DAG task lineage, secure credential bind-mounting for `profiles.yml`, and precision scheduling (Catchup=False) to prevent Databricks cluster throttling.
+* **Containerized Orchestration:** Deployed Apache Airflow via custom Docker images, enforcing strict DAG task lineage,, and precision scheduling (Catchup=False) to prevent Databricks cluster throttling.
 
 
 
@@ -206,8 +206,7 @@ I focus on building scalable end-to-end data pipelines and modern data lakehouse
 ### 👑 Founder & Lead @ Delta AI Community (2025 – Present)
 I founded and actively manage an online student technology community that has rapidly grown to over **1,500 active members**. My mission is to empower peers by providing structured learning roadmaps, resources, and guidance for students navigating modern careers in Data Engineering and Artificial Intelligence.
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
   <br>
   <i><b>"Without data, you're just another person with an opinion."</b> — W. Edwards Deming</i>
