@@ -1,15 +1,11 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0078d4&height=220&section=header&text=Haitham%20Eltemamy&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Data%20Engineer%20%7C%20Data%20Platforms%20%7C&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
 
-
-  <!-- TYPING SVG -->
-
   <a href="https://git.io/typing-svg">
 
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Building+Scalable+Data+Lakehouses;Mastering+Databricks+%2B+Delta+Lake+%2B+dbt;Automating+Orchestration+with+Apache+Airflow;Transforming+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Building+Scalable+Data+Lakehouses;Mastering+Databricks+%2B+Delta+Lake+%2B+dbt;Automating+Orchestration+with+Apache+Airflow;Transforming+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
 
   </a>
 
@@ -19,7 +15,6 @@
 
 
 
-  <!-- QUICK BADGES -->
 
  <div align="center">
 
