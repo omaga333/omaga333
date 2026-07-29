@@ -79,8 +79,7 @@
         <sub><b>Databases</b></sub>
       </td>
       <td align="center" width="10%">
-        <img src="<img width="1680" height="653" alt="dbt-logo-w" src="https://github.com/user-attachments/assets/fc7c8320-230d-4e7b-b0e6-a539f05ff943" />
-" width="40" height="40" alt="Transformation" /><br/>
+        <img src="https://github.com/user-attachments/assets/fc7c8320-230d-4e7b-b0e6-a539f05ff943" width="40" height="40" alt="Transformation" /><br/>
         <sub><b>Transformation</b></sub>
       </td>
       <td align="center" width="10%">
