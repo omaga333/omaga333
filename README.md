@@ -160,7 +160,7 @@ flowchart TD
 
 I focus on building scalable end-to-end data pipelines and modern data lakehouses through comprehensive personal and academic projects.
 
-🛍️ Enterprise Retail Data Platform (Walmart) [](https://github.com/omaga333/Walmart_Airflow_DBT_Databricks)
+🛍️ Enterprise Retail Data Platform (Walmart) [Link](https://github.com/omaga333/Walmart_Airflow_DBT_Databricks)
 
 * **Tech Stack:** Databricks, dbt Core, Apache Airflow, AWS S3, Delta Lake, Docker, SQL Server.
 * **Systems Architecture & Highlights:**
