@@ -171,14 +171,6 @@ flowchart TD
 
 
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/omaga333/omaga333/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-
-
 
 
 
