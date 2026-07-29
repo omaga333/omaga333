@@ -51,43 +51,40 @@
 * 💡 **Interests**: Modern Data Stack Architecture, Distributed Systems Processing, Analytics Engineering, Real-Time Streaming, and Data Governance.
 * 🎓 **Continuous Learning**: Advanced Systems Performance, Database Internals, DataOps Practices, and Cloud Data Security.
 
-<br/>
-
 <div align="center">
   <table>
     <tr>
       <td align="center" width="14%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40" alt="Data Engineering" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="Data Engineering" /><br/>
         <sub><b>Data Engineering</b></sub>
       </td>
       <td align="center" width="14%">
-        <img src="https://user-images.githubusercontent.com/27629408/131103443-39d67a14-38c2-4a0c-a968-3e4b7b20e060.png" width="40" height="40" alt="Big Data" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Big Data" /><br/>
         <sub><b>Big Data</b></sub>
       </td>
       <td align="center" width="14%">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-databricks-logo-icon-download-in-svg-png-gif-file-formats--brand-social-media-card-pack-logos-icons-3420455.png" width="40" height="40" alt="Lakehouse" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="40" height="40" alt="Lakehouse" /><br/>
         <sub><b>Lakehouse</b></sub>
       </td>
       <td align="center" width="14%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Cloud" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Cloud Architecture" /><br/>
         <sub><b>Cloud Architecture</b></sub>
       </td>
       <td align="center" width="14%">
-        <img src="https://user-images.githubusercontent.com/27629408/131103510-c0b9d7a2-f67e-4b47-a89c-5d81b4d32ad3.png" width="40" height="40" alt="Distributed Systems" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Distributed Systems" /><br/>
         <sub><b>Distributed Systems</b></sub>
       </td>
       <td align="center" width="14%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Data Warehousing" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Data Warehousing" /><br/>
         <sub><b>Data Warehousing</b></sub>
       </td>
       <td align="center" width="14%">
-        <img src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-434057.png" width="40" height="40" alt="Analytics Engineering" /><br/>
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dbt.svg" width="40" height="40" alt="Analytics Engineering" /><br/>
         <sub><b>Analytics Engineering</b></sub>
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
