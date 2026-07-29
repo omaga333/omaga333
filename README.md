@@ -162,7 +162,7 @@ I focus on building scalable end-to-end data pipelines and modern data lakehouse
 
 ### 🛍️ Enterprise Retail Data Platform (Walmart) [Link](https://github.com/omaga333/Walmart_Airflow_DBT_Databricks)
 
-* **Tech Stack:** Databricks, dbt Core, Apache Airflow, AWS S3, Delta Lake, Docker, Postgres.
+* **Tech Stack:** Databricks, dbt Core, Apache Airflow, AWS S3, Delta Lake, Docker, SQL Server.
 * **Systems Architecture & Highlights:**
 * **Secure & Decoupled Ingestion:** Engineered a dual-ingestion architecture utilizing CDC for OLTP databases and Databricks Auto Loader (Streaming Tables) for AWS S3. Established zero-hardcoded credential security via AWS CloudFormation and IAM role trust relationships.
 * **Cost-Optimized Transformations (dbt):** Developed a robust Medallion pipeline featuring incremental models for compute efficiency, SCD Type 2 snapshots for historical data preservation, and ephemeral models to minimize storage overhead.
