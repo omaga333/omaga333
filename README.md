@@ -54,40 +54,44 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="12%">
+      <td align="center" width="10%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="Data Engineering" /><br/>
         <sub><b>Data Engineering</b></sub>
       </td>
-      <td align="center" width="12%">
+      <td align="center" width="10%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Big Data" /><br/>
         <sub><b>Big Data</b></sub>
       </td>
-      <td align="center" width="12%">
+      <td align="center" width="10%">
         <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" height="40" alt="Lakehouse" /><br/>
         <sub><b>Lakehouse</b></sub>
       </td>
-      <td align="center" width="12%">
+      <td align="center" width="10%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Cloud Architecture" /><br/>
         <sub><b>Cloud Architecture</b></sub>
       </td>
-      <td align="center" width="12%">
+      <td align="center" width="10%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Distributed Systems" /><br/>
         <sub><b>Distributed Systems</b></sub>
       </td>
-      <td align="center" width="12%">
+      <td align="center" width="10%">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Databases" /><br/>
         <sub><b>Databases</b></sub>
       </td>
-      <td align="center" width="12%">
-        <img src="https://cdn.simpleicons.org/dbt/FF694B" width="40" height="40" alt="Transformation" /><br/>
+      <td align="center" width="10%">
+        <img src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-434057.png" width="40" height="40" alt="Transformation" /><br/>
         <sub><b>Transformation</b></sub>
       </td>
-      <td align="center" width="11%">
+      <td align="center" width="10%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Orchestration" /><br/>
+        <sub><b>Orchestration</b></sub>
+      </td>
+      <td align="center" width="10%">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Visualization" /><br/>
         <sub><b>Visualization</b></sub>
       </td>
-      <td align="center" width="12%">
-        <img src="./fabric.svg" width="40" height="40" alt="Unified Platform" /><br/>
+      <td align="center" width="10%">
+        <img src="https://github.com/user-attachments/assets/cb63d3f6-0bc8-4b30-b6f2-18bb7e48dbcc" width="40" height="40" alt="Unified Platform" /><br/>
         <sub><b>Unified Platform</b></sub>
       </td>
     </tr>
@@ -153,71 +157,6 @@ flowchart TD
     C3 --> E2
  ```
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-flowchart TD
-    %% Styling Definitions for Premium Dark Theme
-    classDef source fill:#1f2937,stroke:#3b82f6,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef ingest fill:#0d1117,stroke:#0078D4,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef storage fill:#0d1117,stroke:#00589C,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef bronze fill:#2e1f18,stroke:#cd7f32,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef silver fill:#1f2329,stroke:#c0c0c0,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef gold fill:#2e2a18,stroke:#ffd700,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef orchestrator fill:#161b22,stroke:#017CEE,stroke-width:2px,color:#fff,stroke-dasharray: 5 5;
-    classDef catalog fill:#161b22,stroke:#FF3621,stroke-width:2px,color:#fff,stroke-dasharray: 5 5;
-    classDef serving fill:#0d1117,stroke:#0078D4,stroke-width:2px,color:#fff,rx:8,ry:8;
-    classDef bi fill:#161b22,stroke:#F2C811,stroke-width:2px,color:#fff,rx:8,ry:8;
-
-    %% Orchestration and Governance Layer
-    subgraph Management ["⚙️ Orchestration & Governance"]
-        direction LR
-        Airflow["Apache Airflow\n(Pipeline Orchestration)"]:::orchestrator
-        UC["Unity Catalog\n(Data Governance & Lineage)"]:::catalog
-    end
-
-    %% Data Sources
-    subgraph Sources ["📥 Data Sources"]
-        direction LR
-        DB[("PostgreSQL")]:::source
-        API[("REST APIs")]:::source
-        FILES[("CSV / JSON")]:::source
-    end
-
-    %% Ingestion and Storage Layer
-    subgraph Ingestion ["🚀 Ingestion & Datalake"]
-        ADF["Azure Data Factory\n(Data Movement)"]:::ingest
-        ADLS[("ADLS Gen2\n(Cloud Storage)")]:::storage
-    end
-
-    %% Processing Layer (Medallion Architecture)
-    subgraph Medallion ["🏗️ Azure Databricks (Delta Lake Architecture)"]
-        direction TB
-        Bronze[("🤎 Bronze Layer\n(Raw Data Landing)")]:::bronze
-        Silver[("🥈 Silver Layer\n(dbt Core Transformations)")]:::silver
-        Gold[("🥇 Gold Layer\n(Business Aggregations)")]:::gold
-    end
-
-    %% Analytics and Visualization Layer
-    subgraph Analytics ["📊 Analytics & Consumption"]
-        Fabric["Microsoft Fabric\n(Unified Analytics Platform)"]:::serving
-        PBI["Power BI Dashboards\n(Data Visualization)"]:::bi
-    end
-
-    %% Pipeline Flow Connections
-    DB & API & FILES -->|Extract| ADF
-    ADF -->|Load| ADLS
-    ADLS -->|Auto Loader| Bronze
-    Bronze -->|Clean & Deduplicate| Silver
-    Silver -->|dbt Models / SQL| Gold
-    Gold -->|Direct Lake / Import| Fabric
-    Fabric -->|Semantic Models| PBI
-
-    %% Management Links
-    Airflow -.->|Schedules & Monitors| Ingestion
-    Airflow -.->|Triggers Notebooks/dbt| Medallion
-    UC -.->|Secures & Governs| Medallion
-                ```
-
-
 
 <div align="center">
 
