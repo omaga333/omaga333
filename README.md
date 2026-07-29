@@ -154,7 +154,7 @@ flowchart TD
     C3 --> E2
 
 ```
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 ## 💻 Featured Data Engineering Projects
 
 I focus on building scalable end-to-end data pipelines and modern data lakehouses through comprehensive personal and academic projects.
