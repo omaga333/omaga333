@@ -153,57 +153,9 @@ flowchart TD
 
 ```
 
----
-
-## 💻 Featured Data Engineering Projects
-
-I focus on building scalable end-to-end data pipelines and modern data lakehouses through comprehensive personal and academic projects.
-
-### 🛒 End-to-End AI-Driven Retail Data Platform
-
-* **Tech Stack:** Databricks LakeFlow Connect, PySpark, Delta Live Tables (DLT), YAML Semantic Layer.
-* **Architecture:** Automated data ingestion from Salesforce CRM and PostgreSQL. Architected a multi-layered Medallion structure utilizing PySpark DLT, and deployed a robust YAML-based semantic layer engineered to power AI/BI dashboard integrations.
-
-### 🎵 Spotify Azure Databricks Platform
-
-* **Tech Stack:** Azure Databricks, Azure Data Factory (ADF), Delta Lake, Auto Loader, Databricks Asset Bundles (DABs), Jinja2.
-* **Architecture:** Implemented an end-to-end Medallion Architecture leveraging Structured Streaming. Managed data ingestion via Auto Loader, enforced strict data quality constraints through robust Star Schema models, and streamlined code versioning with Databricks Asset Bundles.
-
-### ☁️ Enterprise Cloud Data Migration
-
-* **Tech Stack:** Azure Data Factory, ADLS Gen2, Spark-backed Mapping Data Flows, Azure Monitor, Logic Apps.
-* **Architecture:** Designed and implemented a dynamic, parameterized ETL pipeline automating multi-source file ingestion from SFTP and on-premises environments directly into Azure Data Lake Storage Gen2, integrated with automated incident alerting.
-
-### 🛍️ Walmart dbt & Databricks Transformation Platform
-
-* **Tech Stack:** dbt Core, Databricks Adapter, SQL.
-* **Architecture:** Developed a powerful data transformation platform using dbt to execute incremental data loading and unique key upsert strategies, configuring distinct technical and business modeling layers within the Silver zone.
-
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omaga333&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
 ## 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omaga333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaga333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omaga333&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/omaga333">
-    <img src="https://streak-stats.demolab.com/?user=omaga333&theme=tokyonight&hide_border=true&background=0D1117&border_radius=8" alt="GitHub Streak" />
-  </a>
-</div>
 
 <div align="center">
   <a href="https://github.com/omaga333">
@@ -217,7 +169,7 @@ I focus on building scalable end-to-end data pipelines and modern data lakehouse
 
 ## 📜 Certifications & Achievements
 * 🏅 **Apache Airflow 3 Fundamentals** – Astronomer Academy (February 2026)
-* 🏅 **Microsoft Fabric Data Engineering** – (Currently Preparing)
+* 🏅 **Microsoft Fabric Data Engineering** – (Microsoft)
 
 ## 🌍 Community Leadership
 ### 👑 Founder & Lead @ Delta AI Community (2025 – Present)
@@ -228,21 +180,11 @@ I founded and actively manage an online student technology community that has ra
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🐍 Contributions Graph
-<div align="center">
-  <!-- Note: You will need to setup a GitHub Action to generate the snake animation for this to work -->
+<div align="center">b Action to generate the snake animation for this to work -->
   <img src="https://raw.githubusercontent.com/omaga333/omaga333/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
-## 🤝 Let's Connect!
-<div align="center">
-  <p align="center">
-    <a href="https://linkedin.com/in/haitham-eltemamy-191053317" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:haitham.eltemamy.dev@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+
 
   <br>
   <i><b>"Without data, you're just another person with an opinion."</b> — W. Edwards Deming</i>
