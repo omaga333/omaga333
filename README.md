@@ -55,43 +55,43 @@
   <table>
     <tr>
       <td align="center" width="10%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" alt="Data Engineering" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="60" height="60" alt="Data Engineering" /><br/>
         <sub><b>Data Engineering</b></sub>
       </td>
       <td align="center" width="10%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Big Data" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="60" height="60" alt="Big Data" /><br/>
         <sub><b>Big Data</b></sub>
       </td>
       <td align="center" width="10%">
-        <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" height="40" alt="Lakehouse" /><br/>
+        <img src="https://cdn.simpleicons.org/databricks/FF3621" width="60" height="60" alt="Lakehouse" /><br/>
         <sub><b>Lakehouse</b></sub>
       </td>
       <td align="center" width="10%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Cloud Architecture" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" alt="Cloud Architecture" /><br/>
         <sub><b>Cloud Architecture</b></sub>
       </td>
       <td align="center" width="10%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Distributed Systems" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" height="60" alt="Distributed Systems" /><br/>
         <sub><b>Distributed Systems</b></sub>
       </td>
       <td align="center" width="10%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Databases" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="Databases" /><br/>
         <sub><b>Databases</b></sub>
       </td>
       <td align="center" width="10%">
-        <img src="https://github.com/user-attachments/assets/fc7c8320-230d-4e7b-b0e6-a539f05ff943" width="40" height="40" alt="Transformation" /><br/>
+        <img src="https://github.com/user-attachments/assets/fc7c8320-230d-4e7b-b0e6-a539f05ff943" width="60" height="60" alt="Transformation" /><br/>
         <sub><b>Transformation</b></sub>
       </td>
       <td align="center" width="10%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Orchestration" /><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="60" height="60" alt="Orchestration" /><br/>
         <sub><b>Orchestration</b></sub>
       </td>
       <td align="center" width="10%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Visualization" /><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" height="60" alt="Visualization" /><br/>
         <sub><b>Visualization</b></sub>
       </td>
       <td align="center" width="10%">
-        <img src="https://github.com/user-attachments/assets/cb63d3f6-0bc8-4b30-b6f2-18bb7e48dbcc" width="40" height="40" alt="Unified Platform" /><br/>
+        <img src="https://github.com/user-attachments/assets/cb63d3f6-0bc8-4b30-b6f2-18bb7e48dbcc" width="60" height="60" alt="Unified Platform" /><br/>
         <sub><b>Unified Platform</b></sub>
       </td>
     </tr>
