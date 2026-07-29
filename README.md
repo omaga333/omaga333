@@ -156,11 +156,11 @@ flowchart TD
 ```
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-### 💻 Featured Data Engineering Projects
+## 💻 Featured Data Engineering Projects
 
 I focus on building scalable end-to-end data pipelines and modern data lakehouses through comprehensive personal and academic projects.
 
-🛍️ Enterprise Retail Data Platform (Walmart) [Link](https://github.com/omaga333/Walmart_Airflow_DBT_Databricks)
+### 🛍️ Enterprise Retail Data Platform (Walmart) [Link](https://github.com/omaga333/Walmart_Airflow_DBT_Databricks)
 
 * **Tech Stack:** Databricks, dbt Core, Apache Airflow, AWS S3, Delta Lake, Docker, SQL Server.
 * **Systems Architecture & Highlights:**
@@ -170,21 +170,21 @@ I focus on building scalable end-to-end data pipelines and modern data lakehouse
 
 
 
-### 🛒 End-to-End AI-Driven Retail Data Platform [](https://github.com/omaga333/retail-data-platform-databricks)
+### 🛒 End-to-End AI-Driven Retail Data Platform [Link](https://github.com/omaga333/retail-data-platform-databricks)
 
 * **Tech Stack:** Databricks LakeFlow Connect, PySpark, Delta Live Tables (DLT), YAML Semantic Layer.
 * **Architecture:** Automated data ingestion from Salesforce CRM and PostgreSQL. Architected a multi-layered Medallion structure utilizing PySpark DLT, and deployed a robust YAML-based semantic layer engineered to power AI/BI dashboard integrations.
 
-### 🎵 Spotify Azure Databricks Platform [](https://github.com/omaga333/Spotify-Azure-Databricks-Project)
+### 🎵 Spotify Azure Databricks Platform [Link](https://github.com/omaga333/Spotify-Azure-Databricks-Project)
 
 * **Tech Stack:** Azure Databricks, Azure Data Factory (ADF), Delta Lake, Auto Loader, Databricks Asset Bundles (DABs), Jinja2.
 * **Architecture:** Implemented an end-to-end Medallion Architecture leveraging Structured Streaming. Managed data ingestion via Auto Loader, enforced strict data quality constraints through robust Star Schema models, and streamlined code versioning with Databricks Asset Bundles.
 
-### ☁️ Enterprise Cloud Data Migration [](https://github.com/omaga333/DataMigrationToAzure-ADF)
+### ☁️ Enterprise Cloud Data Migration [Link](https://github.com/omaga333/DataMigrationToAzure-ADF)
 
 * **Tech Stack:** Azure Data Factory, ADLS Gen2, Spark-backed Mapping Data Flows, Azure Monitor, Logic Apps.
 * **Architecture:** Designed and implemented a dynamic, parameterized ETL pipeline automating multi-source file ingestion from SFTP and on-premises environments directly into Azure Data Lake Storage Gen2, integrated with automated incident alerting.
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 ## 📊 GitHub Analytics
 
