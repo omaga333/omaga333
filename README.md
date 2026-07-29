@@ -1,186 +1,140 @@
-<h1 align="center">
-   Haitham Eltemamy
-</h1>
-
-<h3 align="center">
-  Data Engineer | Azure Databricks | PySpark | ETL/ELT
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer;Azure+Databricks+%7C+PySpark;Lakehouse+Architecture;Apache+Spark+%7C+Airflow+%7C+dbt&center=true&width=600&height=50">
-</p>
-
-
-## 👨‍💻 About Me
-
-🎓 B.Sc. Artificial Intelligence Student at Delta University
-
-🚀 Data Engineer passionate about building scalable cloud data platforms.
-
-💡 Experienced with:
-- Azure Databricks
-- PySpark
-- Delta Lake
-- Medallion Architecture
-- ETL / ELT Pipelines
-- Data Warehousing
-- Data Quality
-
-
-## 🏗️ Data Engineering Stack
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sql,docker,git,github,aws,postgres">
-
-</p>
-
-
-### Big Data & Cloud
-
-![Databricks](https://img.shields.io/badge/Azure%20Databricks-red?style=for-the-badge)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-orange?style=for-the-badge&logo=apachespark)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-blue?style=for-the-badge&logo=microsoftazure)
-![dbt](https://img.shields.io/badge/dbt-Analytics-orange?style=for-the-badge)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-red?style=for-the-badge&logo=apacheairflow)
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-![PySpark](https://img.shields.io/badge/PySpark-orange?style=for-the-badge&logo=apachespark)
-
-![Databricks](https://img.shields.io/badge/Databricks-red?style=for-the-badge&logo=databricks)
-
-![Snowflake](https://img.shields.io/badge/Snowflake-blue?style=for-the-badge&logo=snowflake)
-
-
-## 🚀 Featured Projects
-
-
-### 🛒 AI-Driven Retail Data Platform
-
-**Databricks Lakehouse | PySpark | Delta Lake | DLT**
-
-- Built End-to-End Medallion Architecture
-- Automated ingestion pipelines
-- Implemented data quality rules
-- Developed semantic layer for AI/BI analytics
-
-
-### 🎵 Spotify Azure Databricks Data Platform
-
-**ADF | Databricks | Delta Live Tables**
-
-- Metadata-driven incremental ETL
-- CDC tracking
-- Spark Structured Streaming
-- SCD Type 1 & Type 2
-
-
-### ☁️ Cloud Data Migration Platform
-
-**Azure Data Factory | SQL Server | Azure SQL**
-
-- Built dynamic ETL pipelines
-- Migrated enterprise data sources
-- Implemented monitoring and alerts
-
-
-## 📊 GitHub Analytics
-
-
-![Haitham GitHub Stats](https://github-readme-stats.vercel.app/api?username=omaga333&show_icons=true&theme=tokyonight)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omaga333&layout=compact&theme=tokyonight)
-
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=omaga333&theme=tokyonight)
-
-
-## 📫 Connect With Me
-
-
-<a href="https://linkedin.com/in/haitham-eltemamy-191053317">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/omaga333">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-
-
-## 🛠️ Data Engineering & Cloud Stack
-
-### Programming
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql&perline=8"/>
-</p>
-
-
-### Big Data & Processing
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-
-</p>
-
-
-### Cloud Platforms
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure&perline=8"/>
-
-<img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-</p>
-
-
-### Data Engineering Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-
-</p>
-
-
-### Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8"/>
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-</p>
-
-
-### DevOps & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux&perline=8"/>
-
-<img src="https://img.shields.io/badge/Databricks%20Asset%20Bundles-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-
-</p>
+<div align="center">
+
+  <!-- HERO BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0078d4&height=220&section=header&text=Haitham%20Eltemamy&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Data%20Engineer%20%7C%20Data%20Platforms%20%7C%20Cloud%20Architectures&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
+
+  <!-- TYPING SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Building+Scalable+Data+Lakehouses;Mastering+Databricks+%2B+Delta+Lake+%2B+dbt;Automating+Orchestration+with+Apache+Airflow;Transforming+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- QUICK BADGES -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=HaithamEltemamy&label=PROFILE+VIEWS&color=0078d4&style=for-the-badge&logo=github" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/HaithamEltemamy?label=FOLLOWERS&style=for-the-badge&color=238636&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/badge/LOCATION-CAIRO%2C%20EGYPT-0078d4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/STATUS-BUILDING_DATA_PLATFORMS-ff69b4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+  </p>
+
+  <p align="center">
+    <b>About Me</b> •
+    <b>Tech Stack</b> •
+    <b>Architecture</b> •
+    <b>What I Do</b> •
+    <b>Projects</b> •
+    <b>Stats</b> •
+    <b>Certifications</b> •
+    <b>Connect</b>
+  </p>
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## ⚡ About Me
+  
+> 👋 Hello! I am **Haitham Eltemamy**, a passionate **Data Engineer** dedicated to building resilient, scalable, and modern data platforms. I specialize in crafting cloud-native Data Lakehouses, high-performance ETL/ELT transformation pipelines, and automated workflow orchestrations using cutting-edge enterprise platforms.
+
+* 🚀 **Core Focus**: Designing Medallion Architecture data environments leveraging **Databricks**, **dbt**, **Apache Airflow**, and modern cloud infrastructures (**Azure** & **AWS**).
+* 💡 **Interests**: Modern Data Stack Architecture, Distributed Systems Processing, Analytics Engineering, Real-Time Streaming, and Data Governance.
+* 🎓 **Continuous Learning**: Advanced Systems Performance, Database Internals, DataOps Practices, and Cloud Data Security.
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="14%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40" alt="Data Engineering" /><br/>
+        <sub><b>Data Engineering</b></sub>
+      </td>
+      <td align="center" width="14%">
+        <img src="https://user-images.githubusercontent.com/27629408/131103443-39d67a14-38c2-4a0c-a968-3e4b7b20e060.png" width="40" height="40" alt="Big Data" /><br/>
+        <sub><b>Big Data</b></sub>
+      </td>
+      <td align="center" width="14%">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-databricks-logo-icon-download-in-svg-png-gif-file-formats--brand-social-media-card-pack-logos-icons-3420455.png" width="40" height="40" alt="Lakehouse" /><br/>
+        <sub><b>Lakehouse</b></sub>
+      </td>
+      <td align="center" width="14%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Cloud" /><br/>
+        <sub><b>Cloud Architecture</b></sub>
+      </td>
+      <td align="center" width="14%">
+        <img src="https://user-images.githubusercontent.com/27629408/131103510-c0b9d7a2-f67e-4b47-a89c-5d81b4d32ad3.png" width="40" height="40" alt="Distributed Systems" /><br/>
+        <sub><b>Distributed Systems</b></sub>
+      </td>
+      <td align="center" width="14%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Data Warehousing" /><br/>
+        <sub><b>Data Warehousing</b></sub>
+      </td>
+      <td align="center" width="14%">
+        <img src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-434057.png" width="40" height="40" alt="Analytics Engineering" /><br/>
+        <sub><b>Analytics Engineering</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 📐 Enterprise Data Architecture
+
+```mermaid
+flowchart TD
+    classDef source fill:#1f2937,stroke:#3b82f6,stroke-width:2px,color:#fff;
+    classDef process fill:#111827,stroke:#ff3621,stroke-width:2px,color:#fff;
+    classDef medallion fill:#0f172a,stroke:#0078d4,stroke-width:2px,color:#fff;
+    classDef consume fill:#18181b,stroke:#f2c811,stroke-width:2px,color:#fff;
+    classDef orchestrate fill:#030712,stroke:#017cee,stroke-width:2px,color:#fff;
+
+    subgraph Data Sources
+        A1[("PostgreSQL DB")]:::source
+        A2[("REST APIs")]:::source
+        A3[("CSV Files")]:::source
+        A4[("JSON Logs")]:::source
+    end
+
+    subgraph Ingestion & Orchestration
+        B1["Apache Airflow DAGs"]:::orchestrate
+        B2["Databricks Auto Loader / LakeFlow"]:::process
+    end
+
+    subgraph Medallion Data Lakehouse
+        C1[("Bronze Layer\n(Raw Parquet / Delta)")]:::medallion
+        C2[("Silver Layer\n(Cleansed & Conformed Delta)")]:::medallion
+        C3[("Gold Layer\n(Star Schema Data Marts)")]:::medallion
+    end
+
+    subgraph Transformation Engine
+        D1["PySpark Streaming & Batch"]:::process
+        D2["dbt Transformations & Tests"]:::process
+    end
+
+    subgraph Analytics & Consumption
+        E1["Power BI Dashboards"]:::consume
+        E2["Executive Reporting"]:::consume
+    end
+
+    A1 --> B2
+    A2 --> B2
+    A3 --> B2
+    A4 --> B2
+
+    B1 -.-|Orchestrates| B2
+    B1 -.-|Triggers| D2
+
+    B2 --> C1
+    C1 --> D1
+    D1 --> C2
+    C2 --> D1
+    D1 --> D2
+    D2 --> C3
+    C3 --> E1
+    C3 --> E2
