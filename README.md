@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0078d4&height=220&section=header&text=Haitham%20Eltemamy&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Data%20Engineer%20%7C%20Data%20Platforms%20%7C&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0078d4&height=220&section=header&text=Haitham%20Eltemamy&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Junior%20Data%20Engineer%20%7C%20Data%20Platforms%20%7C%20AI%20%26%20Systems&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
@@ -11,30 +11,28 @@
   <br/><br/>
 
   <!-- QUICK BADGES -->
- <div align="center">
-<p align="center">
-  <a href="https://linkedin.com/in/haitham-eltemamy-191053317" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/omaga333" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:haitham.eltemamy.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-</div>
+  <div align="center">
+    <p align="center">
+      <a href="https://linkedin.com/in/haitham-eltemamy-191053317" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://github.com/omaga333" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <a href="mailto:haitham.eltemamy.dev@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      </a>
+      <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-0078D4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Cairo, Egypt" />
+    </p>
+  </div>
 
   <p align="center">
     <b>About Me</b> •
     <b>Tech Stack</b> •
     <b>Architecture</b> •
-    <b>What I Do</b> •
     <b>Projects</b> •
-    <b>Stats</b> •
-    <b>Certifications</b> •
-    <b>Connect</b>
+    <b>Community</b> •
+    <b>Stats & Certifications</b>
   </p>
 
 </div>
@@ -45,11 +43,13 @@
 
 ## ⚡ About Me
   
-> 👋 Hello! I am **Haitham Eltemamy**, a passionate **Data Engineer** dedicated to building resilient, scalable, and modern data platforms. I specialize in crafting cloud-native Data Lakehouses, high-performance ETL/ELT transformation pipelines, and automated workflow orchestrations using cutting-edge enterprise platforms.
+> 👋 Hello! I am **Haitham Eltemamy**, a passionate and detail-oriented **Junior Data Engineer** based in Cairo, Egypt. Currently pursuing my studies in Artificial Intelligence at Delta University for Science and Technology, I am deeply dedicated to building resilient, scalable, and modern data platforms through comprehensive personal and academic projects.
 
 * 🚀 **Core Focus**: Designing Medallion Architecture data environments leveraging **Databricks**, **dbt**, **Apache Airflow**, and modern cloud infrastructures (**Azure** & **AWS**).
-* 💡 **Interests**: Modern Data Stack Architecture, Distributed Systems Processing, Analytics Engineering, Real-Time Streaming, and Data Governance.
-* 🎓 **Continuous Learning**: Advanced Systems Performance, Database Internals, DataOps Practices, and Cloud Data Security.
+* 💡 **Interests**: Going beyond high-level tools to understand deep-dive systems engineering, database internals, operating systems architectures, and DataOps practices.
+* 🤝 **Community Leadership**: Founder and Lead of the Delta AI Community, actively managing and providing structured learning roadmaps for over 1,500 active peers navigating careers in data and AI.
+
+<br/>
 
 <div align="center">
   <table>
@@ -96,7 +96,15 @@
       </td>
     </tr>
   </table>
-</div>
+</div>      
+
+
+
+إليك **الجزء الثاني** من البروفايل، وهو بيغطي الـ **Enterprise Data Architecture** (بتصميم Mermaid المحدث والاحترافي جداً للـ Dark Mode) بالإضافة لقسم **Featured Projects** اللي صيغناه بشكل قوي جداً عشان يبرز مهاراتك كـ Junior Data Engineer بيبني مشاريع شخصية وأكاديمية بمستوى الـ Enterprise.
+
+انسخ الكود ده وحطه تحت الجزء الأول مباشرة في ملف الـ `README.md`:
+
+```html
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -105,74 +113,163 @@
 
 ```mermaid
 flowchart TD
-    classDef source fill:#1f2937,stroke:#3b82f6,stroke-width:2px,color:#fff;
-    classDef process fill:#111827,stroke:#ff3621,stroke-width:2px,color:#fff;
-    classDef medallion fill:#0f172a,stroke:#0078d4,stroke-width:2px,color:#fff;
-    classDef consume fill:#18181b,stroke:#f2c811,stroke-width:2px,color:#fff;
-    classDef orchestrate fill:#030712,stroke:#017cee,stroke-width:2px,color:#fff;
+    %% Styling Definitions for Premium Dark Theme
+    classDef source fill:#1f2937,stroke:#3b82f6,stroke-width:2px,color:#fff,rx:8,ry:8;
+    classDef ingest fill:#0d1117,stroke:#0078D4,stroke-width:2px,color:#fff,rx:8,ry:8;
+    classDef storage fill:#0d1117,stroke:#00589C,stroke-width:2px,color:#fff,rx:8,ry:8;
+    classDef bronze fill:#2e1f18,stroke:#cd7f32,stroke-width:2px,color:#fff,rx:8,ry:8;
+    classDef silver fill:#1f2329,stroke:#c0c0c0,stroke-width:2px,color:#fff,rx:8,ry:8;
+    classDef gold fill:#2e2a18,stroke:#ffd700,stroke-width:2px,color:#fff,rx:8,ry:8;
+    classDef orchestrator fill:#161b22,stroke:#017CEE,stroke-width:2px,color:#fff,stroke-dasharray: 5 5;
+    classDef catalog fill:#161b22,stroke:#FF3621,stroke-width:2px,color:#fff,stroke-dasharray: 5 5;
+    classDef serving fill:#0d1117,stroke:#0078D4,stroke-width:2px,color:#fff,rx:8,ry:8;
+    classDef bi fill:#161b22,stroke:#F2C811,stroke-width:2px,color:#fff,rx:8,ry:8;
 
-    subgraph Data Sources
-        A1[("PostgreSQL DB")]:::source
-        A2[("REST APIs")]:::source
-        A3[("CSV Files")]:::source
-        A4[("JSON Logs")]:::source
+    %% Orchestration and Governance Layer
+    subgraph Management ["⚙️ Orchestration & Governance"]
+        direction LR
+        Airflow["Apache Airflow\n(Pipeline Orchestration)"]:::orchestrator
+        UC["Unity Catalog\n(Data Governance)"]:::catalog
     end
 
-    subgraph Ingestion & Orchestration
-        B1["Apache Airflow DAGs"]:::orchestrate
-        B2["Databricks Auto Loader / LakeFlow"]:::process
+    %% Data Sources
+    subgraph Sources ["📥 Data Sources"]
+        direction LR
+        DB[("PostgreSQL / CRM")]:::source
+        API[("REST APIs")]:::source
+        FILES[("SFTP / S3 / CSV")]:::source
     end
 
-    subgraph Medallion Data Lakehouse
-        C1[("Bronze Layer\n(Raw Parquet / Delta)")]:::medallion
-        C2[("Silver Layer\n(Cleansed & Conformed Delta)")]:::medallion
-        C3[("Gold Layer\n(Star Schema Data Marts)")]:::medallion
+    %% Ingestion and Storage Layer
+    subgraph Ingestion ["🚀 Ingestion & Datalake"]
+        ADF["Azure Data Factory / LakeFlow\n(Data Movement)"]:::ingest
+        ADLS[("ADLS Gen2 / AWS S3\n(Cloud Storage)")]:::storage
     end
 
-    subgraph Transformation Engine
-        D1["PySpark Streaming & Batch"]:::process
-        D2["dbt Transformations & Tests"]:::process
+    %% Processing Layer (Medallion Architecture)
+    subgraph Medallion ["🏗️ Azure Databricks (Delta Lake Architecture)"]
+        direction TB
+        Bronze[("🤎 Bronze Layer\n(Raw Data Landing)")]:::bronze
+        Silver[("🥈 Silver Layer\n(dbt Core / PySpark)")]:::silver
+        Gold[("🥇 Gold Layer\n(Star Schema Models)")]:::gold
     end
 
-    subgraph Analytics & Consumption
-        E1["Power BI Dashboards"]:::consume
-        E2["Executive Reporting"]:::consume
+    %% Analytics and Visualization Layer
+    subgraph Analytics ["📊 Analytics & Consumption"]
+        Fabric["Microsoft Fabric\n(Unified Analytics)"]:::serving
+        PBI["Power BI Dashboards\n(Data Visualization)"]:::bi
     end
 
-    A1 --> B2
-    A2 --> B2
-    A3 --> B2
-    A4 --> B2
+    %% Pipeline Flow Connections
+    DB & API & FILES -->|Extract| ADF
+    ADF -->|Load| ADLS
+    ADLS -->|Auto Loader| Bronze
+    Bronze -->|Clean & Deduplicate| Silver
+    Silver -->|dbt Models / SQL| Gold
+    Gold -->|Direct Lake / Import| Fabric
+    Fabric -->|Semantic Models| PBI
 
-    B1 -.-|Orchestrates| B2
-    B1 -.-|Triggers| D2
+    %% Management Links
+    Airflow -.->|Schedules| Ingestion
+    Airflow -.->|Triggers Pipelines| Medallion
+    UC -.->|Secures & Governs| Medallion
 
-    B2 --> C1
-    C1 --> D1
-    D1 --> C2
-    C2 --> D1
-    D1 --> D2
-    D2 --> C3
-    C3 --> E1
-    C3 --> E2
- ```
----------------------------------------------------------------------------------------------------------------------------------------------------------
+```
 
+---
+
+## 💻 Featured Data Engineering Projects
+
+I focus on building scalable end-to-end data pipelines and modern data lakehouses through comprehensive personal and academic projects.
+
+### 🛒 End-to-End AI-Driven Retail Data Platform
+
+* **Tech Stack:** Databricks LakeFlow Connect, PySpark, Delta Live Tables (DLT), YAML Semantic Layer.
+* **Architecture:** Automated data ingestion from Salesforce CRM and PostgreSQL. Architected a multi-layered Medallion structure utilizing PySpark DLT, and deployed a robust YAML-based semantic layer engineered to power AI/BI dashboard integrations.
+
+### 🎵 Spotify Azure Databricks Platform
+
+* **Tech Stack:** Azure Databricks, Azure Data Factory (ADF), Delta Lake, Auto Loader, Databricks Asset Bundles (DABs), Jinja2.
+* **Architecture:** Implemented an end-to-end Medallion Architecture leveraging Structured Streaming. Managed data ingestion via Auto Loader, enforced strict data quality constraints through robust Star Schema models, and streamlined code versioning with Databricks Asset Bundles.
+
+### ☁️ Enterprise Cloud Data Migration
+
+* **Tech Stack:** Azure Data Factory, ADLS Gen2, Spark-backed Mapping Data Flows, Azure Monitor, Logic Apps.
+* **Architecture:** Designed and implemented a dynamic, parameterized ETL pipeline automating multi-source file ingestion from SFTP and on-premises environments directly into Azure Data Lake Storage Gen2, integrated with automated incident alerting.
+
+### 🛍️ Walmart dbt & Databricks Transformation Platform
+
+* **Tech Stack:** dbt Core, Databricks Adapter, SQL.
+* **Architecture:** Developed a powerful data transformation platform using dbt to execute incremental data loading and unique key upsert strategies, configuring distinct technical and business modeling layers within the Silver zone.
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🏆 GitHub Trophies
 <div align="center">
-
-## 🔥 Contribution Streak
-
-<a href="https://github.com/omaga333">
-  <img src="https://streak-stats.demolab.com/?user=omaga333&theme=tokyonight&hide_border=true&border_radius=8" alt="Haitham's GitHub Streak" />
-</a>
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=omaga333&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omaga333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaga333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195" alt="Top Languages" />
+</div>
 
+<br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omaga333&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub Activity Graph" />
+</div>
 
+<br>
 
+<div align="center">
+  <a href="https://github.com/omaga333">
+    <img src="https://streak-stats.demolab.com/?user=omaga333&theme=tokyonight&hide_border=true&background=0D1117&border_radius=8" alt="GitHub Streak" />
+  </a>
+</div>
 
+---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+## 📜 Certifications & Achievements
+* 🏅 **Apache Airflow 3 Fundamentals** – Astronomer Academy (February 2026)
+* 🏅 **Microsoft Fabric Data Engineering** – (Currently Preparing)
+
+## 🌍 Community Leadership
+### 👑 Founder & Lead @ Delta AI Community (2025 – Present)
+I founded and actively manage an online student technology community that has rapidly grown to over **1,500 active members**. My mission is to empower peers by providing structured learning roadmaps, resources, and guidance for students navigating modern careers in Data Engineering and Artificial Intelligence.
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🐍 Contributions Graph
+<div align="center">
+  <!-- Note: You will need to setup a GitHub Action to generate the snake animation for this to work -->
+  <img src="https://raw.githubusercontent.com/omaga333/omaga333/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+## 🤝 Let's Connect!
+<div align="center">
+  <p align="center">
+    <a href="https://linkedin.com/in/haitham-eltemamy-191053317" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:haitham.eltemamy.dev@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
+
+  <br>
+  <i><b>"Without data, you're just another person with an opinion."</b> — W. Edwards Deming</i>
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=omaga333&label=Profile%20Views&color=0078D4&style=flat-square" alt="Profile Views" />
+</div>
