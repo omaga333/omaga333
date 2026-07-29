@@ -182,25 +182,28 @@ I focus on building scalable end-to-end data pipelines and modern data lakehouse
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omaga333&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=omaga333&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omaga333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaga333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omaga333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaga333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omaga333&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omaga333&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
-<br>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/omaga333">
+    <img src="https://streak-stats.demolab.com/?user=omaga333&theme=tokyonight&hide_border=true&background=0D1117&border_radius=8" alt="GitHub Streak" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/omaga333">
