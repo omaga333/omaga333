@@ -11,12 +11,20 @@
   <br/><br/>
 
   <!-- QUICK BADGES -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=HaithamEltemamy&label=PROFILE+VIEWS&color=0078d4&style=for-the-badge&logo=github" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/HaithamEltemamy?label=FOLLOWERS&style=for-the-badge&color=238636&logo=github" alt="Followers" />
-    <img src="https://img.shields.io/badge/LOCATION-CAIRO%2C%20EGYPT-0078d4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/STATUS-BUILDING_DATA_PLATFORMS-ff69b4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
-  </p>
+ <div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/haitham-eltemamy-191053317" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/omaga333" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:haitham.eltemamy.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+</div>
 
   <p align="center">
     <b>About Me</b> •
