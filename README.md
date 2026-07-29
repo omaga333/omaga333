@@ -155,7 +155,8 @@ flowchart TD
 
 ```
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-## 💻 Featured Data Engineering Projects
+
+### 💻 Featured Data Engineering Projects
 
 I focus on building scalable end-to-end data pipelines and modern data lakehouses through comprehensive personal and academic projects.
 
@@ -195,8 +196,6 @@ I focus on building scalable end-to-end data pipelines and modern data lakehouse
   </a>
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📜 Certifications & Achievements
@@ -208,14 +207,6 @@ I focus on building scalable end-to-end data pipelines and modern data lakehouse
 I founded and actively manage an online student technology community that has rapidly grown to over **1,500 active members**. My mission is to empower peers by providing structured learning roadmaps, resources, and guidance for students navigating modern careers in Data Engineering and Artificial Intelligence.
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-## 🐍 Contributions Graph
-<div align="center">b Action to generate the snake animation for this to work -->
-  <img src="https://raw.githubusercontent.com/omaga333/omaga333/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
 
 
   <br>
